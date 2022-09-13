@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acmeboi
 - 👀 I’m interested in php and Angular CLI Web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python for machine learning
+- 💞️ I’m looking to collaborate on php and Angular CLI
 - 📫 How to reach me isamuhammad0131@gmail.com phone: 08143856549
 
 <!---
